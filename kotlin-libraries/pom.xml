@@ -116,7 +116,7 @@
         <exposed.version>0.37.3</exposed.version>
         <kovenant.version>3.3.0</kovenant.version>
         <byte-buddy.version>1.8.13</byte-buddy.version>
-        <objenesis.version>2.6</objenesis.version>
+        <objenesis.version>3.4</objenesis.version>
         <rxkotlin.version>2.3.0</rxkotlin.version>
         <arrow-core.version>1.2.0</arrow-core.version>
         <h2.version>2.1.210</h2.version>
