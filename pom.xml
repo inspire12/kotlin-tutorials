@@ -533,6 +533,7 @@
                 <module>kotlin-blockchain</module>
                 <module>kotlin-testing</module>
                 <module>kotlin-mockito</module>
+                <module>kotlin-docker</module>
                 <!-- <module>kotlin-tornadofx</module> --> <!-- not compatible with Java 9+ -->
                 <module>kotlin-kover</module>
                 <module>ktlint-custom</module>
@@ -545,6 +546,7 @@
                 <module>spring-reactive-kotlin</module>
                 <module>spring-security-kotlin-dsl</module>
                 <module>spring-security-kotlin</module>
+                <module>quarkus-modules</module>
             </modules>
         </profile>
 
